@@ -32,10 +32,6 @@ Hold-out test R² ≈ 0.91; unseen-model R² ≈ 0.91.
 
 **Findings:** new price dominates; each extra year of age ≈ -10% price; doubling km ≈ -5%; diesel ≈ +20% vs comparable petrol; brand adds no reliable signal.
 
-## Charts
-![Model comparison](images/07_model_comparison.png)
-![Diagnostics](images/08_diagnostics.png)
-![Depreciation](images/04_depreciation.png)
 
 ## Predict a new car
 ```python
